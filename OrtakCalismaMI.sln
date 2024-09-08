@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrtakCalismaMI", "OrtakCalismaMI.csproj", "{E89B89AD-5BC6-4A8E-930F-2CCFA9A6417B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E89B89AD-5BC6-4A8E-930F-2CCFA9A6417B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89B89AD-5BC6-4A8E-930F-2CCFA9A6417B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89B89AD-5BC6-4A8E-930F-2CCFA9A6417B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89B89AD-5BC6-4A8E-930F-2CCFA9A6417B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A1CD45-D5E7-438E-BB2D-D0647AEF7B49}
+	EndGlobalSection
+EndGlobal
